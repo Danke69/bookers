@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flash-destroy {
+  color: blue;
+  margin: 33px;
+}
+
+.main {
+  display: flex;
+}
+
+.title, .body, .mass {
+  flex: 1;
+}
+
+
+.title-head {
+  font-size: 20px;
+}
+
+.mass {
+  display: flex;
+  margin-top: 30px;
+}
+
+.show {
+  margin-right: 10px;
+}
+
+.edit {
+  margin-right: 10px;
+}
+
+.destroy {
+  margin-right: 10px;
+}
+
+.botton {
+  padding: 1px;
+}
